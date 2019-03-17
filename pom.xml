@@ -95,7 +95,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-234-20-11.ap-south-1.compute.amazonaws.com:8081/repository/flipkart-snapshot/</url>
+	      <url>http://ec2-52-66-206-208.ap-south-1.compute.amazonaws.com:8081/repository/pipeline-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
